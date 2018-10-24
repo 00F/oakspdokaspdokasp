@@ -46,7 +46,7 @@ LOka.user.setUsername("' #Mَeَeَ.َ")
 });
 LOka.on('message', message => {
      if (message.content === "0") {
-LOka.user.setGame(`آلضيممء ،`,'https://www.twitch.tv/MeeRcY')
+LOka.user.setGame(`You make the baddest bitch look good anyday.`,'https://www.twitch.tv/MeeRcY')
  
 }
 });
